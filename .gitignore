@@ -1,2 +1,4 @@
-venv/
+Gemini_LLM_venv/
 .env
+__pycache__/
+*.pyc

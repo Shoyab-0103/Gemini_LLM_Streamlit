@@ -37,3 +37,5 @@ if submit_button:
     response = get_gemini_response(input_text)
     st.write(response)
 
+# Print response in terminal
+    print("Response:", response)
